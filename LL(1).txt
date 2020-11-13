@@ -1,0 +1,62 @@
+	i	f	>	<	/	c	;	#	}	{	b	4	h	6	a	+	=	d	(	3	)	g	e	x	y	5	z	*	w	-	,	
+
+W								W->@													W->@										W->,X	
+
+O											O->PU				O->PU				O->PU													
+
+M											M->jk				M->jk				M->jk													
+
+B																						B->gb;										
+
+F		F->f(M)D																														
+
+N											N->OT				N->OT				N->OT													
+
+T			T->@	T->@			T->@							T->@		T->+OT					T->@			T->@	T->@	T->@	T->@		T->@	T->-OT		
+
+Z																						Z->gY										
+
+L											L->K;																					
+
+8			8->@	8->@	8->@		8->@							8->@		8->@			8->(V)		8->@			8->@	8->@	8->@	8->@	8->@	8->@	8->@		
+
+Q																		Q->dD														
+
+J										J->{C}																						
+
+S										S->{AC4b;}												S->@										
+
+A	A->@	A->@				A->@	A->@		A->@	A->@	A->@	A->@	A->@									A->BA	A->@									
+
+9																					9->@										9->,V	
+
+R			R->>N	R-><N																				R->xN	R->yN		R->zN		R->wN			
+
+Y											Y->b(X)SgY									Y->3()S												
+
+P											P->b8				P->a				P->(N)													
+
+V											V->b9																					
+
+j											j->NR				j->NR				j->NR													
+
+I	I->ib;																															
+
+X																						X->gbW										
+
+C	C->DC	C->DC				C->DC	C->DC		C->@	C->DC	C->DC	C->@	C->DC										C->DC									
+
+E						E->c(M)DQ																										
+
+D	D->I	D->F				D->E	D->;			D->J	D->L		D->H										D->G									
+
+G																							G->e(K;M;K)D									
+
+k							k->@							k->6jk							k->@					k->5jk						
+
+U			U->@	U->@	U->/PU		U->@							U->@		U->@					U->@			U->@	U->@	U->@	U->@	U->*PU	U->@	U->@		
+
+K											K->b=N																					
+
+H													H->hN;																			
+

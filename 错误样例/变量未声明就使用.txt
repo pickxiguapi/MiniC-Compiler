@@ -1,0 +1,7 @@
+int main()
+{   
+    sum=0;
+    write  2+2/2;
+    write   (2+2)/2;
+    return sum;  
+}

@@ -1,0 +1,54 @@
+int int factorial(int c)
+{
+      int f;
+      f=1;
+      while(c>0)
+      {
+      f=f*c;
+      c--;
+      }
+      return f;
+}
+
+int main()
+{  
+    int a;
+    int b;
+    int c;
+    int i;
+    int number;
+    read number;
+    a=1;
+    b=1;
+    if(number<=2 || number>100)
+    {
+        c=0;
+        write 0;
+    }
+    else
+    {
+    write a;
+    write b;
+    for(i=3;i<=number;i++)
+    {
+        	c=a+b;
+	write c;
+  	a=b+0;
+  	b=c+0;
+    }
+    }
+    f=factorial(c);
+    write f;
+    return f;
+}
+
+
+
+
+
+
+
+
+
+
+
